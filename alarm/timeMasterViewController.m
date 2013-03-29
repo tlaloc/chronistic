@@ -2,7 +2,7 @@
 //  timeMasterViewController.m
 //  alarm
 //
-//  Created by Not Sure on 3/29/13.
+//  Created by Stephen Franklin on 3/29/13.
 //  Copyright (c) 2013 Not Sure. All rights reserved.
 //
 
